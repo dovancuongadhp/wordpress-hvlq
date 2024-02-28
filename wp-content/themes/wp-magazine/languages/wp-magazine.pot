@@ -1,0 +1,1976 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Magazine\n"
+"POT-Creation-Date: 2021-06-05 14:57+0545\n"
+"PO-Revision-Date: 2021-06-05 14:56+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:53 index.php:68
+msgid "More posts"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:26
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:26
+msgid "WP Magazine by WP Mag Plus"
+msgstr ""
+
+#: functions.php:94 layouts/header/header-layout-four.php:73
+#: layouts/header/header-layout-one.php:49
+#: layouts/header/header-layout-three.php:13
+#: layouts/header/header-layout-two.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/about/about.php:11
+msgid "Get Started"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/about/about.php:37
+msgid "WP Magazine"
+msgstr ""
+
+#: inc/about/about.php:39
+msgid ""
+"WP Magazine WordPress Theme is easy to use theme for Passionate Bloggers, "
+"Writers and Editors. This theme is developed with lots of options that a "
+"magazine newspaper or blog need. WP Magazine Theme can be used by lifestyle "
+"bloggers, Personal blogging, magazine, newspaper, news portal and many more. "
+"This themes has multiple layout options for header, footer, featured news, "
+"sliders, category news. You will also get unlimited google fonts, color "
+"options, easy to use customizer and most importantly show/hide and drag/drop "
+"options for all the sections.\r\n"
+"\r\n"
+msgstr ""
+
+#: inc/about/about.php:42
+msgid ""
+"Once you install all recommended plugins, you can import demo templates."
+msgstr ""
+
+#: inc/about/about.php:45
+msgid "Theme Customization"
+msgstr ""
+
+#: inc/about/about.php:45
+msgid "Import Starter Demos"
+msgstr ""
+
+#: inc/about/about.php:46
+msgid "Need help?"
+msgstr ""
+
+#: inc/about/about.php:46 inc/about/about.php:139
+msgid "Contact Us"
+msgstr ""
+
+#: inc/about/about.php:46
+msgid "or email us at: hello@wpmagplus.com"
+msgstr ""
+
+#: inc/about/about.php:54 inc/customizer/sections/demo-documentation.php:69
+#: inc/customizer/sections/upgrade-to-pro.php:13
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/about/about.php:55
+msgid ""
+"If you are looking for more features layouts, slider layout options, CTA "
+"layouts, Start Demos, whitelabeling, premium support and more, then you can "
+"check the pro version of the theme."
+msgstr ""
+
+#: inc/about/about.php:56
+msgid "View Pro Version"
+msgstr ""
+
+#: inc/about/about.php:63
+msgid "Step by Step tutorial to help you customize the theme."
+msgstr ""
+
+#: inc/about/about.php:64
+msgid "YouTube video player"
+msgstr ""
+
+#: inc/about/about.php:74
+msgid "Free v/s Pro"
+msgstr ""
+
+#: inc/about/about.php:76
+msgid "Free"
+msgstr ""
+
+#: inc/about/about.php:76
+msgid "Pro"
+msgstr ""
+
+#: inc/about/about.php:79
+msgid "Google Ads Placement"
+msgstr ""
+
+#: inc/about/about.php:80
+msgid "Ads block detector"
+msgstr ""
+
+#: inc/about/about.php:81
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/about/about.php:82
+msgid "24/7 Support"
+msgstr ""
+
+#: inc/about/about.php:83
+msgid "Site Logo Management"
+msgstr ""
+
+#: inc/about/about.php:84
+msgid "Site width controller"
+msgstr ""
+
+#: inc/about/about.php:85
+msgid "Layouts Import"
+msgstr ""
+
+#: inc/about/about.php:85
+msgid "6 Starter Demos"
+msgstr ""
+
+#: inc/about/about.php:85
+msgid "30 Starter Demos"
+msgstr ""
+
+#: inc/about/about.php:86
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/about/about.php:87
+msgid "Unlimited Color Option"
+msgstr ""
+
+#: inc/about/about.php:88
+msgid "In-built Social Sharing"
+msgstr ""
+
+#: inc/about/about.php:89
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/about/about.php:90
+msgid "Child Theme Compatible"
+msgstr ""
+
+#: inc/about/about.php:91
+msgid "Floating/Sticky Menu"
+msgstr ""
+
+#: inc/about/about.php:92
+msgid "Multiple Header Layouts"
+msgstr ""
+
+#: inc/about/about.php:93
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/about/about.php:94
+msgid "Mulitple News Slider Layouts"
+msgstr ""
+
+#: inc/about/about.php:95
+msgid "Multiple News Headline Layouts"
+msgstr ""
+
+#: inc/about/about.php:96
+msgid "Featured News Layouts"
+msgstr ""
+
+#: inc/about/about.php:97 inc/customizer/sections/blog-posts.php:14
+msgid "Blog Options"
+msgstr ""
+
+#: inc/about/about.php:98
+msgid "Show/Hide Author Info"
+msgstr ""
+
+#: inc/about/about.php:99
+msgid "Mulitple Blog Post Option"
+msgstr ""
+
+#: inc/about/about.php:100
+msgid "Scroll to Top button"
+msgstr ""
+
+#: inc/about/about.php:101
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/about/about.php:102
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/about/about.php:103 inc/customizer/panels/theme-options.php:12
+msgid "Theme Options"
+msgstr ""
+
+#: inc/about/about.php:104
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/about/about.php:105
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/about/about.php:106
+msgid "Lightweight"
+msgstr ""
+
+#: inc/about/about.php:107
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/about/about.php:107
+msgid "1 layout available"
+msgstr ""
+
+#: inc/about/about.php:107
+msgid "4 layouts available"
+msgstr ""
+
+#: inc/about/about.php:111
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: inc/about/about.php:118
+msgid "FAQ's"
+msgstr ""
+
+#: inc/about/about.php:119
+msgid "1. What is the difference between Free and Pro?"
+msgstr ""
+
+#: inc/about/about.php:120
+msgid ""
+"Both Free and Pro version of the themes are well-built. If you are looking "
+"for more features, layout options, color options, font options, "
+"whitelabeling and more, then you can upgrade to pro."
+msgstr ""
+
+#: inc/about/about.php:121
+msgid ""
+"The premium version lets you have better control over the theme as it comes "
+"with more customization options. Not just that, the theme also has more "
+"sections and layout options as compared to the free version. You can find "
+"out more about the difference between Free and Pro versions"
+msgstr ""
+
+#: inc/about/about.php:121
+msgid "here"
+msgstr ""
+
+#: inc/about/about.php:123
+msgid "2. What are the advantages of upgrading to the Premium version?"
+msgstr ""
+
+#: inc/about/about.php:124
+msgid ""
+"With Premium version, besides the extra features and frequent updates, you "
+"get premium support. If you run into any theme issues, you will get a lot "
+"quicker response compared to the free support."
+msgstr ""
+
+#: inc/about/about.php:126
+msgid "3. How do I change the copyright text?"
+msgstr ""
+
+#: inc/about/about.php:127
+msgid "You can change the copyright text going to"
+msgstr ""
+
+#: inc/about/about.php:127
+msgid "Appearance > Customize > Footer Options"
+msgstr ""
+
+#: inc/about/about.php:127
+msgid "Upgrade to the"
+msgstr ""
+
+#: inc/about/about.php:127
+msgid "Pro version"
+msgstr ""
+
+#: inc/about/about.php:127
+msgid "to unlock this feature."
+msgstr ""
+
+#: inc/about/about.php:130
+msgid "For more help, read our documentation"
+msgstr ""
+
+#: inc/about/about.php:131
+msgid "View Documentation"
+msgstr ""
+
+#: inc/about/about.php:137
+msgid ""
+"If you like the theme, please leave a review or Contact us for technical "
+"support."
+msgstr ""
+
+#: inc/about/about.php:139
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/custom-controls/dropdown-taxonomies/class-dropdown-taxonomies-control.php:42
+#: inc/custom-controls/posttype-taxonomies/class-post-type-taxonomies-control.php:34
+msgid "Select"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:238
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/panels/colors-fonts.php:14
+msgid "Colors and Fonts"
+msgstr ""
+
+#: inc/customizer/panels/header-options.php:13
+msgid "Header and Site Identity"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:13
+msgid "Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:24
+msgid "Enable Image Ad"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:41
+msgid "Upload ad Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:42
+msgid "Recommended size 729px * 90px."
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:63
+msgid "Advertisement Link :"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:64
+msgid "Image Advertisement Link goes here."
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:78
+msgid "Upgrade to Pro to insert Google Ads."
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:95
+msgid "Enable Google Ad"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:110
+msgid "Google Ads Script :"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:111
+msgid "You can insert Google ads script here"
+msgstr ""
+
+#: inc/customizer/sections/advertisement.php:126
+msgid "Message to AdBlocker Users :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:23
+msgid "Home Blog Section Options:"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:38
+#: inc/customizer/sections/theme-options/category-news.php:24
+#: inc/customizer/sections/theme-options/cta.php:22
+#: inc/customizer/sections/theme-options/featured.php:25
+#: inc/customizer/sections/theme-options/pages.php:23
+msgid "Hide / Show"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:50
+#: inc/customizer/sections/header-options/headline.php:62
+#: inc/customizer/sections/theme-options/category-news.php:52
+#: inc/customizer/sections/theme-options/featured.php:55
+#: inc/customizer/sections/theme-options/news-carousel.php:41
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:62
+#: inc/customizer/sections/header-options/headline.php:76
+#: inc/customizer/sections/theme-options/featured.php:42
+#: inc/customizer/sections/theme-options/news-carousel.php:55
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:74
+msgid "Numbere of Posts"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:86
+msgid "Blog List Options:"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:98
+msgid "Layouts :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:103
+msgid "Sidebar at left"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:104
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:105
+msgid "Sidebar at right"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:117
+msgid "Post View :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:122
+msgid "Grid View"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:123
+msgid "List View"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:124
+msgid "Fullwidth View"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:125
+msgid "3 Column Grid"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:137
+#: inc/customizer/sections/blog-posts.php:169
+#: inc/customizer/sections/theme-options/featured.php:139
+msgid "Hide / Show Details"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:142
+#: inc/customizer/sections/blog-posts.php:175
+#: inc/customizer/sections/theme-options/category-news.php:100
+#: inc/customizer/sections/theme-options/featured.php:144
+msgid "Show post author"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:143
+#: inc/customizer/sections/blog-posts.php:176
+#: inc/customizer/sections/theme-options/category-news.php:101
+#: inc/customizer/sections/theme-options/featured.php:145
+msgid "Show post date"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:144
+#: inc/customizer/sections/blog-posts.php:177
+#: inc/customizer/sections/theme-options/category-news.php:102
+#: inc/customizer/sections/theme-options/featured.php:146
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:145
+#: inc/customizer/sections/blog-posts.php:178
+#: inc/customizer/sections/theme-options/category-news.php:103
+#: inc/customizer/sections/theme-options/featured.php:147
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:146
+#: inc/customizer/sections/blog-posts.php:179
+#: inc/customizer/sections/theme-options/category-news.php:104
+#: inc/customizer/sections/theme-options/featured.php:148
+msgid "Show number of comments"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:156
+msgid "Detail Page Options:"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:174
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:191
+msgid "Author Block"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:196
+msgid "Show author block"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:207
+msgid "Related Articles"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:212
+msgid "Show Related Articles"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:222
+msgid "Related Articles Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:13
+msgid "Main Body"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:29
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:40
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:51
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:63
+msgid "Dark Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:74
+msgid "White Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:86
+#: inc/customizer/sections/theme-options/cta.php:111
+#: inc/customizer/sections/theme-options/news-carousel.php:95
+#: inc/customizer/sections/theme-options/pages.php:72
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:99
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:114
+#: inc/customizer/sections/colors-fonts/body-fonts.php:202
+#: inc/customizer/sections/colors-fonts/news-heading.php:52
+#: inc/customizer/sections/colors-fonts/news-heading.php:140
+#: inc/customizer/sections/colors-fonts/news-heading.php:228
+#: inc/customizer/sections/colors-fonts/news-heading.php:318
+#: inc/customizer/sections/colors-fonts/news-heading.php:402
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:128
+#: inc/customizer/sections/colors-fonts/body-fonts.php:187
+#: inc/customizer/sections/colors-fonts/news-heading.php:65
+#: inc/customizer/sections/colors-fonts/news-heading.php:154
+#: inc/customizer/sections/colors-fonts/news-heading.php:242
+#: inc/customizer/sections/colors-fonts/news-heading.php:331
+#: inc/customizer/sections/colors-fonts/news-heading.php:416
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:144
+#: inc/customizer/sections/colors-fonts/body-fonts.php:217
+#: inc/customizer/sections/colors-fonts/news-heading.php:79
+#: inc/customizer/sections/colors-fonts/news-heading.php:169
+#: inc/customizer/sections/colors-fonts/news-heading.php:257
+#: inc/customizer/sections/colors-fonts/news-heading.php:345
+#: inc/customizer/sections/colors-fonts/news-heading.php:431
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:160
+#: inc/customizer/sections/colors-fonts/body-fonts.php:231
+#: inc/customizer/sections/colors-fonts/news-heading.php:96
+#: inc/customizer/sections/colors-fonts/news-heading.php:186
+#: inc/customizer/sections/colors-fonts/news-heading.php:274
+#: inc/customizer/sections/colors-fonts/news-heading.php:362
+#: inc/customizer/sections/colors-fonts/news-heading.php:448
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:175
+msgid "Detail Post/Page"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/category-colors.php:13
+#: inc/customizer/sections/colors-fonts/colors-category.php:13
+msgid "Category Colors"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/category-colors.php:34
+#: inc/customizer/sections/colors-fonts/colors-category.php:34
+msgid "Color :"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:13
+msgid "Heading Tags"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:33
+#: inc/customizer/sections/colors-fonts/heading-tags.php:46
+#: inc/customizer/sections/colors-fonts/heading-tags.php:65
+#: inc/customizer/sections/colors-fonts/heading-tags.php:82
+#: inc/customizer/sections/colors-fonts/heading-tags.php:99
+msgid "H"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:46
+msgid " Font Size"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:65
+msgid " Font Family"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:82
+msgid " Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:99
+msgid " Font Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:13
+msgid "Menu Fonts"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:30
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:42
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:54
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:66
+msgid "Menu Font Family"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:79
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:93
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:108
+msgid "Text Transform :"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:113
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:114
+msgid "First character Capital"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:115
+msgid "All Captial"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:116
+msgid "All Lower"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:13
+msgid "News Heading"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:29
+msgid "Headline News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:40
+#: inc/customizer/sections/colors-fonts/news-heading.php:127
+#: inc/customizer/sections/colors-fonts/news-heading.php:215
+#: inc/customizer/sections/colors-fonts/news-heading.php:306
+#: inc/customizer/sections/colors-fonts/news-heading.php:389
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:115
+msgid "Featured News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:203
+msgid "Category News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:295
+msgid "Blog News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:378
+msgid "Slider News Title"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:13
+#: inc/customizer/sections/demo-documentation.php:16
+msgid "Do more with WP Magazine WordPress Theme."
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:20
+msgid "Demo and Documentation"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:42
+msgid "Theme Details"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:42
+#: inc/customizer/sections/demo-documentation.php:44
+#: inc/customizer/sections/demo-documentation.php:45
+#: inc/customizer/sections/demo-documentation.php:46
+msgid "Click Here"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:44
+msgid "How to use"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:45
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:46
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:51
+msgid "Premium Version"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:74
+msgid "Explore Premium Features"
+msgstr ""
+
+#: inc/customizer/sections/general.php:11
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/general.php:24
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/sections/general.php:40
+msgid "Image Border"
+msgstr ""
+
+#: inc/customizer/sections/general.php:55
+msgid "Pagination Type :"
+msgstr ""
+
+#: inc/customizer/sections/general.php:60
+msgid "Ajax Loadmore"
+msgstr ""
+
+#: inc/customizer/sections/general.php:61
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/customizer/sections/general.php:72
+msgid "Section Heading Type:"
+msgstr ""
+
+#: inc/customizer/sections/general.php:86
+#: layouts/home-category-slider/slider-category.php:55
+#: template-parts/content-blogs.php:36
+#: template-parts/home-sections/featured-news.php:125
+#: template-parts/home-sections/slider.php:73
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/sections/general.php:90
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/sections/general.php:104
+msgid "Copyright :"
+msgstr ""
+
+#: inc/customizer/sections/general.php:118
+msgid "Copyright edit option is available in Pro version."
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-image.php:26
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-image.php:39
+msgid "Background Color Opacity"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:13
+msgid "Headline Options"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:25
+msgid "Hide / Show Headline"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:42
+msgid "Select to show on home or all pages."
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:50
+msgid "Show only on Homepage"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:51
+msgid "Show on all pages"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:89
+#: inc/customizer/sections/theme-options/category-news.php:64
+#: inc/customizer/sections/theme-options/featured.php:81
+#: inc/customizer/sections/theme-options/news-carousel.php:70
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:103
+msgid "Headline Layout"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:14
+msgid "Logo and Site Identity"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:42
+#: inc/customizer/sections/site-identity.php:32
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:53
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:67
+#: inc/customizer/sections/site-identity.php:53
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:83
+#: inc/customizer/sections/site-identity.php:69
+msgid "Site Identity Font Family"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:99
+#: inc/customizer/sections/site-identity.php:85
+msgid "Header Image Height"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:13
+msgid "Theme Header Options"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:26
+msgid "Enable Sticky Menu?"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:38
+msgid "Hide / Show Header Search"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:50
+msgid "Hide / Show Date"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:63
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:12
+#: inc/customizer/sections/social-media.php:47
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:24
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:28
+msgid "Social Media Title"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:31
+#: inc/customizer/sections/social-media.php:68 share-template.php:5
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:32 share-template.php:8
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:33
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:34
+#: inc/customizer/sections/social-media.php:69 share-template.php:6
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:35
+#: inc/customizer/sections/social-media.php:70 share-template.php:7
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:36
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:41
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:63
+msgid "Social Shares"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:71
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:72
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:81
+msgid "Twitter ID:"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:13
+msgid "Category Display Section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:14
+msgid "Category Display Section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:40
+msgid "Categories :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:46
+#: inc/customizer/sections/theme-options/category-news.php:58
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:53
+msgid "This will be the label."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:65
+msgid "Put -1 for unlimited"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:71
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:94
+msgid "Hide / Show :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:99
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:105
+#: inc/customizer/sections/theme-options/featured.php:150
+msgid "Show Read More"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:12
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:38
+msgid "CTA Sub Heading"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:51
+msgid "CTA Heading"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:63
+msgid "CTA Image"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:75
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:87
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:99
+msgid "CTA Link"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:122
+msgid "CTA Layouts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:138
+msgid "Upgrade to Pro for more layout options"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:12
+#: inc/customizer/sections/theme-options/drag-and-drop.php:13
+msgid "Drag & Drop"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:21
+msgid "Featured News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:22
+msgid "Category News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:23
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:24
+msgid "Call to Action"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:25
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:26
+#: inc/customizer/sections/theme-options/news-carousel.php:13
+msgid "News Slider"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:37
+msgid "Drag and Drop Sections to rearrange."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:14
+msgid "Featured Section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:15
+msgid "Featured Section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:68
+msgid "Fullwidth Display?"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:105
+msgid "Featured Layout"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:120
+msgid "Upgrade to Pro for more layouts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:149
+msgid "Show description"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/news-carousel.php:25
+msgid "Hide / Show News Slider"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/news-carousel.php:107
+msgid "News Slider Layout"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/news-carousel.php:121
+msgid "Upgrade to Pro for more layouts."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:12
+msgid "Pages Section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:13
+msgid "Pages section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:40
+msgid "-- Select --"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:49
+msgid "Pages :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:52
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:54
+msgid "New Page"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:59
+msgid "Select a page"
+msgstr ""
+
+#: inc/customizer/sections/upgrade-to-pro.php:11
+msgid "WP Magazine Plus"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:18
+msgid "Processing..."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s!. To fully take advantage of the best "
+"our theme can offer, get started."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+msgid "Clicking on get started will activate Advanced Import"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:117
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:198
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:70 page-template-no-feat-img.php:33
+#: template-parts/content-page.php:111
+msgid "Edit"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Advanced Import"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "WPMagPlus Companion"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:63
+msgid "Blog Sidebar Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+msgid "Blog Sidebar Right"
+msgstr ""
+
+#: inc/widgets/widgets.php:23
+msgid "Blog Sidebar Left"
+msgstr ""
+
+#: inc/widgets/widgets.php:34
+msgid "Category Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:45
+msgid "Footer"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: page-template-no-feat-img.php:24 post-template-fullwidth-2.php:95
+#: template-parts/content-page.php:85 template-parts/content-single.php:110
+msgid "Pages:"
+msgstr ""
+
+#: post-template-fullwidth-2.php:67 template-parts/content-blogs.php:16
+#: template-parts/content-home-category.php:73
+#: template-parts/content-page.php:62 template-parts/content-single.php:64
+#: template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+msgid "zero comment"
+msgstr ""
+
+#: post-template-fullwidth-2.php:67 template-parts/content-blogs.php:16
+#: template-parts/content-home-category.php:73
+#: template-parts/content-page.php:62 template-parts/content-single.php:64
+#: template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+msgid "one comment"
+msgstr ""
+
+#: post-template-fullwidth-2.php:67 template-parts/content-home-category.php:73
+#: template-parts/content-page.php:62 template-parts/content-single.php:64
+#: template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-blogs.php:16
+msgid "comments"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found."
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpmagplus.com/free-wp-magazine-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Magazine WordPress Theme is easy to use theme for Passionate Bloggers, "
+"Writers and Editors. This theme is developed with lots of options that a "
+"magazine newspaper or blog need. WP Magazine Theme can be used by lifestyle "
+"bloggers, Personal blogging, magazine, newspaper, news portal and many more. "
+"This themes has  multiple layout options for header, footer, featured news, "
+"sliders, category news. You will also get unlimited google fonts, color "
+"options, easy to use customizer and most importantly show/hide and drag/drop "
+"options for all the sections."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "avidthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpmagplus.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Featured Image"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth 2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth 1"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""

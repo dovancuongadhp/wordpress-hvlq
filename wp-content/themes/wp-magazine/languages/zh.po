@@ -1,0 +1,1610 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: WP Magazine\n"
+"POT-Creation-Date: 2020-10-05 19:22+0545\n"
+"PO-Revision-Date: 2020-10-05 19:43+0545\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！ 该页面无法找到。"
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "看起来在这个位置没有发现任何东西。 也许尝试下面的链接之一或搜索？"
+
+#: archive.php:51 index.php:68
+msgid "More posts"
+msgstr "更多文章"
+
+#. translators: %s: post title
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; 的评论"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 条评论在 &ldquo;%2$s&rdquo;"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr "旧评论"
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr "更新的评论"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: footer.php:21
+msgid ""
+"&copy; Add/Edit copyright from Customizer > General Options > Footer/"
+"Copyright."
+msgstr ""
+
+#: footer.php:26
+msgid "Powered by"
+msgstr "技术支持"
+
+#: footer.php:26
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:26
+msgid "WP Magazine by WP Mag Plus"
+msgstr ""
+
+#: fullwidth-2.php:67 template-parts/content-blogs.php:16
+#: template-parts/content-home-category.php:73
+#: template-parts/content-single.php:64 template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+msgid "zero comment"
+msgstr ""
+
+#: fullwidth-2.php:67 template-parts/content-blogs.php:16
+#: template-parts/content-home-category.php:73
+#: template-parts/content-single.php:64 template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+msgid "one comment"
+msgstr "1条评论"
+
+#: fullwidth-2.php:67 template-parts/content-home-category.php:73
+#: template-parts/content-single.php:64 template-parts/content.php:61
+#: template-parts/home-sections/featured-news.php:108
+#, php-format
+msgid "% comments"
+msgstr "% 评论"
+
+#: fullwidth-2.php:92 no-featureimage.php:24 template-parts/content-page.php:21
+#: template-parts/content-single.php:97
+msgid "Pages:"
+msgstr "页面："
+
+#: functions.php:96 layouts/header/header-layout-four.php:123
+#: layouts/header/header-layout-one.php:65
+#: layouts/header/header-layout-three.php:13
+#: layouts/header/header-layout-two.php:105
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:97
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: functions.php:265
+msgid "Processing..."
+msgstr "正在处理..."
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: inc/about/about.php:11
+msgid "Get Started"
+msgstr "开始使用"
+
+#: inc/about/about.php:37
+msgid "Upgrade to Pro $29.99"
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/about/about.php:40
+msgid ""
+"WP Magazine WordPress Theme is easy to use theme for Passionate Bloggers, "
+"Writers and Editors. This theme is developed with lots of options that a "
+"magazine newspaper or blog need. WP Magazine Theme can be used by lifestyle "
+"bloggers, Personal blogging, magazine, newspaper, news portal and many more. "
+"This themes has  multiple layout options for header, footer, featured news, "
+"sliders, category news. You will also get unlimited google fonts, color "
+"options, easy to use customizer and most importantly show/hide and drag/drop "
+"options for all the sections."
+msgstr ""
+
+#: inc/about/about.php:42
+msgid "Theme Options - Click Here"
+msgstr ""
+
+#: inc/about/about.php:48
+msgid "Once you install all recommended plugins, you can import demo template."
+msgstr ""
+
+#: inc/about/about.php:50
+msgid "View Demo Templates"
+msgstr ""
+
+#: inc/about/about.php:56
+msgid ""
+"If you like the theme, please leave a review or Contact us for technical "
+"support."
+msgstr ""
+
+#: inc/about/about.php:58
+msgid "Rate this theme"
+msgstr "评价这个主题"
+
+#: inc/about/about.php:58
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: inc/custom-controls/dropdown-taxonomies/class-dropdown-taxonomies-control.php:42
+#: inc/custom-controls/posttype-taxonomies/class-post-type-taxonomies-control.php:34
+msgid "Select"
+msgstr "选择"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr "行"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+#, php-format
+msgid "Add new %s"
+msgstr "添加新的 %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:238
+#, php-format
+msgid "Limit: %s rows"
+msgstr "限制：%s行"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "十六进制值"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "移除"
+
+#: inc/customizer/panels/advertisement-options.php:12
+msgid "Advertisement Options"
+msgstr "广告选项"
+
+#: inc/customizer/panels/colors-fonts.php:14
+msgid "Colors and Fonts"
+msgstr "颜色和字体Comment"
+
+#: inc/customizer/panels/general-options.php:12
+msgid "General Options"
+msgstr "常规选项"
+
+#: inc/customizer/panels/header-options.php:13
+msgid "Header and Site Identity"
+msgstr ""
+
+#: inc/customizer/panels/theme-options.php:12
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: inc/customizer/sections/ad-options/header-ad.php:13
+msgid "Header Advertisement"
+msgstr "标题广告"
+
+#: inc/customizer/sections/ad-options/header-ad.php:14
+msgid "Header Advertisement :"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:26
+msgid "Upload ad Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:40
+msgid "Advertisement Link :"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:41
+msgid "Image Advertisement Link goes here."
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:50
+msgid "Enable Image Ad"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:68
+msgid "Google Ads Script :"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:69
+msgid "You can insert Google ads script here"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:78
+msgid "Enable Google Ad"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:14
+#: inc/customizer/sections/theme-options/blog-posts.php:14
+msgid "Blog Options"
+msgstr "博客选项"
+
+#: inc/customizer/sections/blog-posts.php:23
+#: inc/customizer/sections/theme-options/blog-posts.php:23
+msgid "Homepage Blog Section Options :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:38
+#: inc/customizer/sections/theme-options/blog-posts.php:38
+#: inc/customizer/sections/theme-options/category-news.php:24
+#: inc/customizer/sections/theme-options/cta.php:22
+#: inc/customizer/sections/theme-options/featured.php:25
+#: inc/customizer/sections/theme-options/pages.php:23
+msgid "Hide / Show"
+msgstr "隐藏/显示"
+
+#: inc/customizer/sections/blog-posts.php:50
+#: inc/customizer/sections/header-options/headline.php:62
+#: inc/customizer/sections/theme-options/blog-posts.php:50
+#: inc/customizer/sections/theme-options/category-news.php:52
+#: inc/customizer/sections/theme-options/featured.php:55
+#: inc/customizer/sections/theme-options/news-carousel.php:41
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/sections/blog-posts.php:62
+#: inc/customizer/sections/header-options/headline.php:76
+#: inc/customizer/sections/theme-options/blog-posts.php:62
+#: inc/customizer/sections/theme-options/featured.php:42
+#: inc/customizer/sections/theme-options/news-carousel.php:55
+msgid "Choose Category"
+msgstr "选择类别"
+
+#: inc/customizer/sections/blog-posts.php:74
+#: inc/customizer/sections/theme-options/blog-posts.php:74
+msgid "Numbere of Posts"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:86
+#: inc/customizer/sections/theme-options/blog-posts.php:86
+msgid "Blog List Options :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:98
+#: inc/customizer/sections/theme-options/blog-posts.php:98
+msgid "Layouts :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:103
+#: inc/customizer/sections/theme-options/blog-posts.php:103
+msgid "Sidebar at left"
+msgstr "侧栏1/3左"
+
+#: inc/customizer/sections/blog-posts.php:104
+#: inc/customizer/sections/theme-options/blog-posts.php:104
+msgid "No sidebar"
+msgstr "无侧边栏"
+
+#: inc/customizer/sections/blog-posts.php:105
+#: inc/customizer/sections/theme-options/blog-posts.php:105
+msgid "Sidebar at right"
+msgstr "侧栏1/3右"
+
+#: inc/customizer/sections/blog-posts.php:117
+#: inc/customizer/sections/theme-options/blog-posts.php:117
+msgid "Post View :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:122
+#: inc/customizer/sections/theme-options/blog-posts.php:122
+msgid "Grid View"
+msgstr "网格视图"
+
+#: inc/customizer/sections/blog-posts.php:123
+#: inc/customizer/sections/theme-options/blog-posts.php:123
+msgid "List View"
+msgstr "列表视图"
+
+#: inc/customizer/sections/blog-posts.php:124
+#: inc/customizer/sections/theme-options/blog-posts.php:124
+msgid "Fullwidth View"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:125
+#: inc/customizer/sections/theme-options/blog-posts.php:125
+msgid "3 Column Grid"
+msgstr "3列网格"
+
+#: inc/customizer/sections/blog-posts.php:137
+#: inc/customizer/sections/blog-posts.php:169
+#: inc/customizer/sections/theme-options/blog-posts.php:137
+#: inc/customizer/sections/theme-options/blog-posts.php:169
+#: inc/customizer/sections/theme-options/featured.php:122
+msgid "Hide / Show Details"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:142
+#: inc/customizer/sections/blog-posts.php:174
+#: inc/customizer/sections/theme-options/blog-posts.php:142
+#: inc/customizer/sections/theme-options/blog-posts.php:174
+#: inc/customizer/sections/theme-options/category-news.php:104
+#: inc/customizer/sections/theme-options/featured.php:127
+msgid "Show post author"
+msgstr "显示文章作者"
+
+#: inc/customizer/sections/blog-posts.php:143
+#: inc/customizer/sections/blog-posts.php:175
+#: inc/customizer/sections/theme-options/blog-posts.php:143
+#: inc/customizer/sections/theme-options/blog-posts.php:175
+#: inc/customizer/sections/theme-options/category-news.php:105
+#: inc/customizer/sections/theme-options/featured.php:128
+msgid "Show post date"
+msgstr "显示发布日期"
+
+#: inc/customizer/sections/blog-posts.php:144
+#: inc/customizer/sections/blog-posts.php:176
+#: inc/customizer/sections/theme-options/blog-posts.php:144
+#: inc/customizer/sections/theme-options/blog-posts.php:176
+#: inc/customizer/sections/theme-options/category-news.php:106
+#: inc/customizer/sections/theme-options/featured.php:129
+msgid "Show Categories"
+msgstr "显示分类"
+
+#: inc/customizer/sections/blog-posts.php:145
+#: inc/customizer/sections/blog-posts.php:177
+#: inc/customizer/sections/theme-options/blog-posts.php:145
+#: inc/customizer/sections/theme-options/blog-posts.php:177
+#: inc/customizer/sections/theme-options/category-news.php:107
+#: inc/customizer/sections/theme-options/featured.php:130
+msgid "Show Tags"
+msgstr "显示标签"
+
+#: inc/customizer/sections/blog-posts.php:146
+#: inc/customizer/sections/blog-posts.php:178
+#: inc/customizer/sections/theme-options/blog-posts.php:146
+#: inc/customizer/sections/theme-options/blog-posts.php:178
+#: inc/customizer/sections/theme-options/category-news.php:108
+#: inc/customizer/sections/theme-options/featured.php:131
+msgid "Show number of comments"
+msgstr "显示评论数"
+
+#: inc/customizer/sections/blog-posts.php:156
+#: inc/customizer/sections/theme-options/blog-posts.php:156
+msgid "Detail Page Options :"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:190
+#: inc/customizer/sections/theme-options/blog-posts.php:190
+msgid "Author Block"
+msgstr ""
+
+#: inc/customizer/sections/blog-posts.php:195
+#: inc/customizer/sections/theme-options/blog-posts.php:195
+msgid "Show author block"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:13
+msgid "Main Body"
+msgstr "主体"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:29
+#: inc/customizer/sections/colors-fonts/body-fonts.php:178
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:40
+msgid "Primary Color"
+msgstr "原色"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:54
+#: inc/customizer/sections/colors-fonts/body-fonts.php:191
+#: inc/customizer/sections/colors-fonts/news-heading.php:52
+#: inc/customizer/sections/colors-fonts/news-heading.php:172
+#: inc/customizer/sections/colors-fonts/news-heading.php:298
+#: inc/customizer/sections/colors-fonts/news-heading.php:426
+#: inc/customizer/sections/colors-fonts/news-heading.php:548
+msgid "Font Family"
+msgstr "字体"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:68
+#: inc/customizer/sections/colors-fonts/body-fonts.php:152
+#: inc/customizer/sections/colors-fonts/news-heading.php:65
+#: inc/customizer/sections/colors-fonts/news-heading.php:186
+#: inc/customizer/sections/colors-fonts/news-heading.php:312
+#: inc/customizer/sections/colors-fonts/news-heading.php:439
+#: inc/customizer/sections/colors-fonts/news-heading.php:562
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:96
+#: inc/customizer/sections/colors-fonts/body-fonts.php:206
+#: inc/customizer/sections/colors-fonts/news-heading.php:98
+#: inc/customizer/sections/colors-fonts/news-heading.php:220
+#: inc/customizer/sections/colors-fonts/news-heading.php:346
+#: inc/customizer/sections/colors-fonts/news-heading.php:472
+#: inc/customizer/sections/colors-fonts/news-heading.php:596
+msgid "Line Height"
+msgstr "线高度"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:125
+#: inc/customizer/sections/colors-fonts/body-fonts.php:244
+#: inc/customizer/sections/colors-fonts/news-heading.php:128
+#: inc/customizer/sections/colors-fonts/news-heading.php:256
+#: inc/customizer/sections/colors-fonts/news-heading.php:382
+#: inc/customizer/sections/colors-fonts/news-heading.php:508
+#: inc/customizer/sections/colors-fonts/news-heading.php:626
+msgid "Font Weight"
+msgstr "字体粗细"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:140
+msgid "Detail Post/Page"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:259
+msgid "Extra"
+msgstr "额外"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:273
+#: inc/customizer/sections/colors-fonts/body-fonts.php:329
+#: inc/customizer/sections/colors-fonts/extra.php:30
+#: inc/customizer/sections/colors-fonts/extra.php:86
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:289
+#: inc/customizer/sections/colors-fonts/extra.php:46
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:303
+#: inc/customizer/sections/colors-fonts/extra.php:60
+#: inc/customizer/sections/theme-options/cta.php:111
+#: inc/customizer/sections/theme-options/news-carousel.php:82
+#: inc/customizer/sections/theme-options/pages.php:73
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: inc/customizer/sections/colors-fonts/body-fonts.php:316
+msgid "Footer Background Color"
+msgstr "页脚背景颜色"
+
+#: inc/customizer/sections/colors-fonts/category-colors.php:13
+#: inc/customizer/sections/colors-fonts/colors-category.php:13
+msgid "Category Colors"
+msgstr "分类颜色"
+
+#: inc/customizer/sections/colors-fonts/category-colors.php:34
+#: inc/customizer/sections/colors-fonts/colors-category.php:34
+msgid "Color :"
+msgstr "颜色："
+
+#: inc/customizer/sections/colors-fonts/extra.php:13
+msgid "Extra Fonts and Colors"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/extra.php:73
+msgid "Footer Color"
+msgstr "页脚颜色"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:13
+msgid "Heading Tags"
+msgstr "标题标签"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:33
+#: inc/customizer/sections/colors-fonts/heading-tags.php:46
+#: inc/customizer/sections/colors-fonts/heading-tags.php:65
+#: inc/customizer/sections/colors-fonts/heading-tags.php:82
+#: inc/customizer/sections/colors-fonts/heading-tags.php:99
+msgid "H"
+msgstr "H"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:46
+msgid " Font Size"
+msgstr "字号"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:65
+msgid " Font Family"
+msgstr " 字体系列"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:82
+msgid " Font Weight"
+msgstr "字体粗细"
+
+#: inc/customizer/sections/colors-fonts/heading-tags.php:99
+msgid " Font Color"
+msgstr "Font Color"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:13
+msgid "Menu Fonts"
+msgstr "菜单字体"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:30
+msgid "Top Bar Background Color"
+msgstr "顶栏背景颜色"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:42
+msgid "Menu Color"
+msgstr "菜单颜色"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:54
+msgid "Menu Background Color"
+msgstr "菜单背景颜色"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:66
+msgid "Menu Font Family"
+msgstr "菜单字体系列"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:79
+msgid "Menu Font Size"
+msgstr "菜单字体大小"
+
+#: inc/customizer/sections/colors-fonts/menu-fonts.php:100
+msgid "Menu Font Weight"
+msgstr "菜单字体粗细"
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:13
+msgid "News Heading"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:29
+msgid "Headline News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:40
+#: inc/customizer/sections/colors-fonts/news-heading.php:159
+#: inc/customizer/sections/colors-fonts/news-heading.php:285
+#: inc/customizer/sections/colors-fonts/news-heading.php:414
+#: inc/customizer/sections/colors-fonts/news-heading.php:535
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:147
+msgid "Featured News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:273
+msgid "Category News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:403
+msgid "Blog News Title"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts/news-heading.php:524
+msgid "Slider News Title"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:14
+msgid "Demo and Documentation"
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:25
+msgid ""
+"Check out step-by-step tutorial to create your website like the demo of Wp "
+"Magazine Pro WordPress theme."
+msgstr ""
+
+#: inc/customizer/sections/demo-documentation.php:36
+msgid "Theme Demo"
+msgstr "主题演示"
+
+#: inc/customizer/sections/demo-documentation.php:36
+#: inc/customizer/sections/demo-documentation.php:37
+#: inc/customizer/sections/demo-documentation.php:38
+msgid "Click Here"
+msgstr "点击这里"
+
+#: inc/customizer/sections/demo-documentation.php:37
+msgid "Theme Details"
+msgstr "主题详情"
+
+#: inc/customizer/sections/demo-documentation.php:38
+msgid "How to use"
+msgstr "如何使用"
+
+#: inc/customizer/sections/general-options/container.php:14
+#: inc/customizer/sections/general-options/container.php:38
+msgid "Container Width"
+msgstr "容器宽度"
+
+#: inc/customizer/sections/general-options/footer.php:17
+msgid "Footer / Copyright"
+msgstr "页脚/版权声明"
+
+#: inc/customizer/sections/general-options/footer.php:28
+msgid "Copyright :"
+msgstr ""
+
+#: inc/customizer/sections/general-options/image-border.php:14
+#: inc/customizer/sections/general-options/image-border.php:34
+msgid "Image Border"
+msgstr "图像边框"
+
+#: inc/customizer/sections/general-options/pagination.php:14
+msgid "Pagination"
+msgstr "分页"
+
+#: inc/customizer/sections/general-options/pagination.php:15
+msgid "Pagination :"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:32
+msgid "Pagination Type :"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:37
+msgid "Ajax Loadmore"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:38
+msgid "Number Pagination"
+msgstr "数字分页"
+
+#: inc/customizer/sections/general-options/readmore.php:13
+msgid "Readmore Button"
+msgstr "阅读更多按钮"
+
+#: inc/customizer/sections/general-options/readmore.php:20
+#: layouts/home-category-slider/slider-category.php:53
+#: template-parts/content-blogs.php:36
+#: template-parts/home-sections/featured-news.php:125
+#: template-parts/home-sections/slider.php:73
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/customizer/sections/general-options/readmore.php:24
+msgid "Read More Text"
+msgstr "阅读更多文字"
+
+#: inc/customizer/sections/general-options/social-media.php:12
+#: inc/customizer/sections/general-options/social-media.php:41
+msgid "Social Media"
+msgstr "社交媒体"
+
+#: inc/customizer/sections/general-options/social-media.php:25
+msgid "Social Links"
+msgstr "社交链接"
+
+#: inc/customizer/sections/general-options/social-media.php:29
+msgid "Social Media Title"
+msgstr "社交媒体标题"
+
+#: inc/customizer/sections/general-options/social-media.php:30
+#: inc/customizer/sections/theme-options/category-news.php:53
+msgid "This will be the label."
+msgstr ""
+
+#: inc/customizer/sections/general-options/social-media.php:35
+msgid "Social Media Links"
+msgstr "社交媒体链接"
+
+#: inc/customizer/sections/general-options/social-media.php:57
+msgid "Social Shares"
+msgstr "社交分享"
+
+#: inc/customizer/sections/general-options/social-media.php:62
+#: share-template.php:5
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/sections/general-options/social-media.php:63
+#: share-template.php:6
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/sections/general-options/social-media.php:64
+#: share-template.php:7
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/sections/general-options/social-media.php:65
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/sections/general-options/social-media.php:66
+msgid "Email"
+msgstr "邮箱"
+
+#: inc/customizer/sections/general-options/social-media.php:75
+msgid "Twitter ID:"
+msgstr "Twitter ID:"
+
+#: inc/customizer/sections/header-options/header-image.php:26
+msgid "Header Background Color"
+msgstr "标题背景颜色"
+
+#: inc/customizer/sections/header-options/header-image.php:39
+msgid "Background Color Opacity"
+msgstr "背景颜色透明度"
+
+#: inc/customizer/sections/header-options/headline.php:13
+msgid "Headline Options"
+msgstr "标题选项"
+
+#: inc/customizer/sections/header-options/headline.php:25
+msgid "Hide / Show Headline"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:42
+msgid "Select to show on home or all pages."
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:50
+msgid "Show only on Homepage"
+msgstr ""
+
+#: inc/customizer/sections/header-options/headline.php:51
+msgid "Show on all pages"
+msgstr "显示在所有页面"
+
+#: inc/customizer/sections/header-options/headline.php:89
+#: inc/customizer/sections/theme-options/category-news.php:64
+#: inc/customizer/sections/theme-options/featured.php:96
+#: inc/customizer/sections/theme-options/news-carousel.php:68
+msgid "Number of posts"
+msgstr "文章数量"
+
+#: inc/customizer/sections/header-options/headline.php:103
+msgid "Headline Layout"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:14
+msgid "Logo and Site Identity"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:42
+#: inc/customizer/sections/site-identity.php:32
+msgid "Site Title Color"
+msgstr "网站标题颜色"
+
+#: inc/customizer/sections/header-options/site-identity.php:53
+msgid "Site Tagline Color"
+msgstr "网站标语颜色"
+
+#: inc/customizer/sections/header-options/site-identity.php:67
+#: inc/customizer/sections/site-identity.php:53
+msgid "Logo Size"
+msgstr "logo 尺寸"
+
+#: inc/customizer/sections/header-options/site-identity.php:83
+#: inc/customizer/sections/site-identity.php:69
+msgid "Site Identity Font Family"
+msgstr "网站识别字体系列"
+
+#: inc/customizer/sections/header-options/site-identity.php:99
+#: inc/customizer/sections/site-identity.php:85
+msgid "Header Image Height"
+msgstr "标题图像高度"
+
+#: inc/customizer/sections/header-options/theme-header.php:13
+msgid "Theme Header Options"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:26
+msgid "Enable Sticky Menu?"
+msgstr "是否使用便捷菜单？"
+
+#: inc/customizer/sections/header-options/theme-header.php:38
+msgid "Hide / Show Header Search"
+msgstr ""
+
+#: inc/customizer/sections/header-options/theme-header.php:51
+msgid "Header Layout"
+msgstr "页眉布局"
+
+#: inc/customizer/sections/theme-options/category-news.php:13
+msgid "Category Display Section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:14
+msgid "Category Display Section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:40
+msgid "Categories :"
+msgstr "类别："
+
+#: inc/customizer/sections/theme-options/category-news.php:46
+#: inc/customizer/sections/theme-options/category-news.php:58
+msgid "Category"
+msgstr "分类"
+
+#: inc/customizer/sections/theme-options/category-news.php:65
+msgid "Put -1 for unlimited"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:71
+msgid "Layouts"
+msgstr "布局"
+
+#: inc/customizer/sections/theme-options/category-news.php:98
+msgid "Hide / Show :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/category-news.php:103
+msgid "Show Sidebar"
+msgstr "显示侧边栏"
+
+#: inc/customizer/sections/theme-options/category-news.php:109
+#: inc/customizer/sections/theme-options/featured.php:133
+msgid "Show Read More"
+msgstr "显示阅读更多"
+
+#: inc/customizer/sections/theme-options/cta.php:12
+msgid "Call To Action"
+msgstr "行动呼吁"
+
+#: inc/customizer/sections/theme-options/cta.php:38
+msgid "CTA Sub Heading"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:51
+msgid "CTA Heading"
+msgstr "CTA 导航"
+
+#: inc/customizer/sections/theme-options/cta.php:63
+msgid "CTA Image"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/cta.php:75
+msgid "CTA Text"
+msgstr "CTA按钮文本"
+
+#: inc/customizer/sections/theme-options/cta.php:87
+msgid "CTA Button Label"
+msgstr "按钮标签"
+
+#: inc/customizer/sections/theme-options/cta.php:99
+msgid "CTA Link"
+msgstr "CTA链接"
+
+#: inc/customizer/sections/theme-options/cta.php:122
+msgid "CTA Layouts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:12
+#: inc/customizer/sections/theme-options/drag-and-drop.php:13
+msgid "Drag & Drop"
+msgstr "特征&下拉"
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:21
+msgid "Featured News"
+msgstr "专题新闻"
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:22
+msgid "Category News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:23
+msgid "Pages"
+msgstr "页面"
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:24
+msgid "Call to Action"
+msgstr "行为召唤"
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:25
+msgid "Blog Posts"
+msgstr "博客文章"
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:26
+#: inc/customizer/sections/theme-options/news-carousel.php:13
+msgid "News Slider"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/drag-and-drop.php:37
+msgid "Drag and Drop Sections to rearrange."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:14
+msgid "Featured Section"
+msgstr "特色部分"
+
+#: inc/customizer/sections/theme-options/featured.php:15
+msgid "Featured Section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:69
+msgid "Featured Layout"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:83
+msgid "Fullwidth Display?"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/featured.php:132
+msgid "Show description"
+msgstr "显示描述"
+
+#: inc/customizer/sections/theme-options/news-carousel.php:25
+msgid "Hide / Show News Slider"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/news-carousel.php:94
+msgid "News Slider Layout"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:12
+msgid "Pages Section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:13
+msgid "Pages section :"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/pages.php:40
+msgid "-- Select --"
+msgstr "-- 选择 --"
+
+#: inc/customizer/sections/theme-options/pages.php:50
+msgid "Pages :"
+msgstr "页数:"
+
+#: inc/customizer/sections/theme-options/pages.php:53
+msgid "Page"
+msgstr "页面"
+
+#: inc/customizer/sections/theme-options/pages.php:55
+msgid "New Page"
+msgstr "新页面"
+
+#: inc/customizer/sections/theme-options/pages.php:60
+msgid "Select a page"
+msgstr "选择一个页面"
+
+#: inc/getting-started.php:48
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s!. To fully take advantage of the best "
+"our theme can offer, get started."
+msgstr ""
+
+#: inc/getting-started.php:48
+msgid "Clicking on get started will activate Advanced Import"
+msgstr ""
+
+#: inc/getting-started.php:48
+#, php-format
+msgid "Get started with %s"
+msgstr "开始使用 %s"
+
+#: inc/getting-started.php:81
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "抱歉，你没有权限安装插件。"
+
+#: inc/getting-started.php:159
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统。 请确认您的凭据。"
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "发表于 %s"
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "由 %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr "发表于 %1$s"
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr "标签 %1$s"
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr "1 条留言"
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr "% 评论"
+
+#: inc/template-tags.php:70 no-featureimage.php:33
+#: template-parts/content-page.php:30
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "更新插件: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出错了。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主题必须安装以下插件: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐安装以下插件: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新为最新版本，以确保与此主题的最大兼容性：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有更新可用于: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需的插件目前处于非活动状态：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐的插件目前处于非活动状态：％1 $ s。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需的插件安装程序"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回仪表板"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下插件已成功激活："
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "没有采取行动。插件 %1$s 已经激活。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要更高版本的%s。请更新插件。"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。%1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一个或多个必需或推荐的插件来安装，更新或激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站的管理员寻求帮助。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "此插件需要更新才能与您的主题兼容。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "需要更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "远程插件包不包含具有所需段落的文件夹，重命名无效。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "请联系插件提供商，并要求他们根据WordPress指南打包他们的插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "远程插件包由多个文件组成，但文件不打包在一个文件夹中。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "需要"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推荐"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 资源"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部源"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未安装"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "更新可用 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活 <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "安装版本："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "没有插件来安装，更新或激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "来源"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "类型"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "版本"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状态"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "安装 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "启用  <ph id=\"mtc_1\" equiv-text=\"base64:JTIkcw==\"/>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "从插件作者升级消息："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安装"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有选择要安装的插件。没有采取行动。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "没有选择要更新的插件。没有采取行动。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可以安装的插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可以更新的插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "没有选择插件被激活。没有采取行动。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前没有插件可用于激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件 %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装时发生错误 %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安装 %1$s 失败。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程开始。这个过程可能需要一段时间一些主机上,请耐心等待。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装和激活成功。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隐藏细节"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活都已完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程开始。这个过程可能需要一段时间一些主机上,请耐心等待。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "所有安装已完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Advanced Import"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "WPMagPlus Companion"
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+msgid "Blog Sidebar Right"
+msgstr "博客边栏右"
+
+#: inc/widgets/widgets.php:23
+msgid "Blog Sidebar Left"
+msgstr "博客边栏左"
+
+#: inc/widgets/widgets.php:34
+msgid "Category Sidebar"
+msgstr "类别侧栏"
+
+#: inc/widgets/widgets.php:45
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/widgets/widgets.php:57
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce侧边栏"
+
+#: js/loadmore.js:21
+msgid "More Posts"
+msgstr "更多文章"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: searchform.php:3 searchform.php:5
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "搜索"
+
+#: share-template.php:8
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: template-parts/content-blogs.php:16
+msgid "comments"
+msgstr "评论"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found."
+msgstr "未找到任何内容"
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布您的第一篇文章？ <a href=\"%1$s\">立即开始</a>。"
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有匹配您的搜索条件。请用一些不同的关键字再试一次。"
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看来我们无法找到您所需要的东西。 也许搜索可以帮助。"
+
+#. Theme Name of the plugin/theme
+msgid "WP Magazine"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpmagplus.com/free-wp-magazine-theme/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "avidthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpmagplus.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "全宽"
+
+#. Template Name of the plugin/theme
+msgid "No Featured Image"
+msgstr "没有特色图片"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth 2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth 1"
+msgstr ""
